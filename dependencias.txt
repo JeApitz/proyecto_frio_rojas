@@ -1,0 +1,16 @@
+Dependencias en el Frontend:
+•	bootstrap
+•	react
+•	react-bootstrap
+•	react-dom
+•	react-router-dom
+•	zustand
+
+Dependencias en el Backend:
+•	express Js
+•	jsonwebtoken
+•	bcrypt
+•	cors
+•	pg
+•	pg-format
+
